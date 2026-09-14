@@ -92,7 +92,7 @@ export default function App() {
     if (view === 'client-booking') {
       setCurrentView('client-booking');
       setTicketPublicId('');
-      window.history.pushState({}, '', '/b/barber-house/');
+      window.history.pushState({}, '');
     } else if (view === 'client-ticket' && params?.publicId) {
       setTicketPublicId(params.publicId);
       setCurrentView('client-ticket');
