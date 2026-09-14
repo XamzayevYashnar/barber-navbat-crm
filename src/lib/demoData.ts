@@ -45,7 +45,7 @@ export const DEMO_BUSINESS: Business = {
   owner_id: 'user_owner',
   name: 'Barber House',
   slug: 'barber-house',
-  address: 'Toshkent sh., Chilonzor 9-mavze, 12-uy (Metro Chilonzor yonida)',
+  address: 'Toshkent sh., Chilonzor tumani, Qatortol bozori',
   phone: '+998 90 123 45 67',
   opens_at: '09:00',
   closes_at: '20:00',
